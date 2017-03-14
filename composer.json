@@ -1,0 +1,24 @@
+{
+    "name": "damonsharp/dws2017",
+    "authors": [
+        {
+            "name": "Damon Sharp",
+            "email": "damon.sharp@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/alleyinteractive/wordpress-fieldmanager"
+        }
+    ],
+    "require": {
+        "alleyinteractive/wordpress-fieldmanager": "master"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "vendor/alleyinteractive/wordpress-fieldmanager/fieldmanager.php"
+        ]
+    }
+}

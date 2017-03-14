@@ -1,0 +1,17 @@
+{
+  "name": "dws2017",
+  "version": "1.0.0",
+  "description": "Packages for dws2017 theme",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damon Sharp",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
